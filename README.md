@@ -4,9 +4,9 @@
 
 I'm Malek, a Senior Software Engineer with experience in Telecoms and a passion for programming.
 
-- **Background:** I have worked for companies like Nokia, Ericsson, Huawei designing and implementing algorithms to improve Radio Resource Management (RRM)
-- **Interests:** I have specialized in building and using simulation tools and platforms in Python, C++, OpenGL. I have built simualtion engines, OpenGL renderer
-- **DevOps:** I have helped teams migrate to using git, GitLab, and Docker hence reaping the benefits of the DevOps philosophy
+- **Background:** I have worked for companies like Nokia, Ericsson, Huawei designing and implementing algorithms to improve Radio Resource Management (RRM) for 3G, 4G, 5G
+- **Interests:** I have specialized in building and using simulation tools and platforms in Python, C++, WebGl, OpenGL. I have built simulation engines, OpenGL renderer for data processing
+- **DevOps:** I have helped teams migrate to using git, GitLab, and Docker...hence reaping the benefits of the DevOps philosophy
 - **Contact:** If you want to get in touch, contact me here or through [LinkedIn](https://www.linkedin.com/in/malekcellier)
 
 Cheers!

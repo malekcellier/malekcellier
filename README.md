@@ -1,4 +1,18 @@
+## Malek Cellier
+
 ### Hi there 👋
+
+I'm Malek, a Senior Software Engineer with experience in Telecoms and a passion for programming.
+
+- I have worked for companies like Nokia, Ericsson, Huawei designing and implementing algorithms to improve Radio Resource Management (RRM)
+- I have specialized in building and using simulation tools and platforms in Python, C++, OpenGL
+- If you want to get in touch, contact me here or through [LinkedIn](https://www.linkedin.com/in/malekcellier)
+
+Cheers!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekcellier)](https://github.com/malekcellier/github-readme-stats)
+
+![Linkedin_Word Art_1](https://github.com/malekcellier/malekcellier/assets/3883114/cfb61fb8-e7c1-4b72-80b6-f3644279b8ae)
 
 <!--
 **malekcellier/malekcellier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

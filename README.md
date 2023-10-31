@@ -9,6 +9,8 @@ I'm Malek, a Senior Software Engineer with experience in Telecoms and a passion 
 - **DevOps:** I have helped teams migrate to using git, GitLab, and Docker...hence reaping the benefits of the DevOps philosophy
 - **Contact:** If you want to get in touch, contact me here or through [LinkedIn](https://www.linkedin.com/in/malekcellier)
 
+I have a set of tools that I have developed during my career, which will be progressively published here as time permits.
+
 Cheers!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekcellier)](https://github.com/malekcellier/github-readme-stats)

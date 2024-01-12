@@ -2,6 +2,13 @@
 
 ### Hi there 👋
 
+<!--
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+-->
+
 I'm Malek, a Senior Software Engineer with experience in Telecoms and a passion for programming.
 
 - **Background:** I have worked for companies like Nokia, Ericsson, Huawei designing and implementing algorithms to improve Radio Resource Management (RRM) for 3G, 4G, 5G

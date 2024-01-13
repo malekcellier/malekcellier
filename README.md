@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+![C++](https://img.shields.io/badge/C++-Advanced-b3cde0)
+![Python](https://img.shields.io/badge/Python-Expert-005b96)
+![OpenGL](https://img.shields.io/badge/OpenGL-Advanced-b3cde0)
+![MATLAB](https://img.shields.io/badge/MATLAB-Expert-005b96)
+![Bash](https://img.shields.io/badge/Bash-Advanced-b3cde0)
+
 <!--from https://github.com/Ileriayo/markdown-badges
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white
